@@ -1,0 +1,16 @@
+[ {
+  "id_sensor" : "S001",
+  "fecha" : "2025-05-22",
+  "humedad" : "45",
+  "temperatura" : "26.4 "
+}, {
+  "id_sensor" : "S002",
+  "fecha" : "2025-05-22",
+  "humedad" : "50",
+  "temperatura" : "25.1 "
+}, {
+  "id_sensor" : "S003",
+  "fecha" : "2025-05-22",
+  "humedad" : "47",
+  "temperatura" : "27.3 "
+} ]
